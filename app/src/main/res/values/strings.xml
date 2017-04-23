@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Candidates Manager</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="remember_me">Remember me</string>
+    <string name="loading">Loading</string>
+    <string name="connection_error">Error in internet connection</string>
+    <string name="login_credentials_error">Invalid user name or password</string>
+    <string name="login_username_error">Please enter valid username</string>
+    <string name="login_password_error">Please enter valid password</string>
+    <string name="new_candidate">New Candidate</string>
+    <string name="search_candidate">Search Candidate</string>
+    <string name="candidate_details">Candidate Details</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout_confrim">Are you sure you want to logout?</string>
+    <string name="delete_confrim">Are you sure you want to delete %1$s ?</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="position">Position</string>
+    <string name="address">Address</string>
+    <string name="upload_cv">Upload CV</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="upload_others">Upload other papers</string>
+    <string name="save">Save</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="set_your_location">Set your Location</string>
+    <string name="send_your_current_location">Send your current location</string>
+    <string name="send_marked_location">Send the marked location</string>
+    <string name="discard_changes_confrim">Are you sure you want to discard changes?</string>
+    <string name="no_candidates_found">No Candidates found</string>
+    <string name="action_search">Search</string>
+    <string name="uploaded_cv">Uploaded CV</string>
+    <string name="other_papers">Other Papers</string>
+</resources>
